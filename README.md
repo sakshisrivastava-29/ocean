@@ -1,2 +1,2 @@
-# ocean
+# Ocean
 THIS IS A DYNAMIC WEBSITE.
